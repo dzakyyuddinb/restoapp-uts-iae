@@ -102,6 +102,5 @@ Tabel `User`:
 ---
 
 ## Developer
-- Nama Kelompok: **Kelompok XX**
 - Mata Kuliah: **Enterprise Application Integration (EAI)**
 - Dosen Pengampu: **MUHAMMAD RIZQI SHOLAHUDDIN**
