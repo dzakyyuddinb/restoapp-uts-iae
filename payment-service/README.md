@@ -14,7 +14,7 @@ API Payment Service sebagai provider data pembayaran dari pengguna. Payment Serv
      {
       "order_id": 1,
       "user_id": 1,
-      "amount": 20000
+      "amount": 40000
       }
      ```
    - **Contoh Response:**
@@ -46,7 +46,7 @@ Setelah pembayaran diproses, mengirim PUT ke Order Service dan User Service maka
       "id": 1,
       "order_id": 1,
       "user_id": 1,
-      "amount": 20000
+      "amount": 40000
       "status": "paid"
      }
      ```
